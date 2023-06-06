@@ -23,7 +23,7 @@ import { findActiveMenuEntries } from 'src/helpers/routes/findActiveMenuEntries'
 import { TState } from 'src/reducers/defaultState';
 import { QueryResult } from 'react-apollo';
 import { NavTab } from './NavTab';
-
+/** This is a test comment to practice commit */
 /**
  * builds the menu tabs using the data and location provided
  */
